@@ -35,3 +35,20 @@ Haochen Wei,
 ## Acknowledgements ##
 
 This work is supported by Microsoft Research through the Software Engineering Innovation Foundation grant, by the National Science Foundation under Grant# 0963757 and Grant #0937060 to the Computing Research Association for the CIFellows Project, by the National Science and Engineering Research Council Postdoctoral Fellowship, and by IBM through a John Backus Award.
+
+##Acknowledgements by Karan Dagar##
+
+FSE-2011-Crystal
+
+This repository contains information related to the tool Crystal, which helps developers learn about and prevent collaborative conflicts. The paper was presented at FSE, 2011. The tool was originally presented in this paper.(See the <a href="http://dl.acm.org/citation.cfm?id=2025187">Paper</a>.)
+
+This repository is not the original repository for this tool. Here are some links to the original project:
+
+The Original GitHub page for Crystal made by the authors of the tool. (See the <a href="https://github.com/brunyuriy/crystalvc">Original Github Page</a>.)
+
+In this repository, for Crystal you will find:
+
+:white_check_mark: Source code ( available)
+:white_check_mark: The original tool (available)
+:white_check_mark: Video presentation related to Crystal (available)
+This repository was constructed by Karan Singh Dagar (KaranDagar)under the supervision of Emerson Murphy-Hill. Thanks to Yuriy Brun , Reid Holmes , Michael D. Ernst and David Notkin for their help in establishing this repository.
